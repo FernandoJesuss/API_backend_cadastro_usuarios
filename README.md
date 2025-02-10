@@ -1,7 +1,7 @@
 
 
 # Gerenciamento de Usuários com Node.js, Express, Cors e Prisma
-Este projeto é uma aplicação backend para gerenciar usuários utilizando Node.js, Express, Cors e Prisma. Ele permite listar, criar, editar e excluir usuários em um banco de dados MongoDB.
+Este projeto é uma aplicação backend desenvolvida para gerenciar usuários, utilizando tecnologias como Node.js, Express, Cors e Prisma. A aplicação oferece funcionalidades para listar, criar, editar e excluir usuários em um banco de dados MongoDB de forma eficiente e segura.
 
 ## Tecnologias Utilizadas
 * Node.js
